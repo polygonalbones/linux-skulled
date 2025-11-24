@@ -1,5 +1,6 @@
+# SPDX-License-Identifier: GPL-2.0
 {
-  description = "Nix flake for the kori compiler toolchain.";
+  description = "Skulled linux source";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
